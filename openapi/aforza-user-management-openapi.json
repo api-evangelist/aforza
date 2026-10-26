@@ -1,1 +1,0 @@
-{"openapi":"3.0.0","info":{"title":"User Management API","description":"Manage your organization's users - create, update and manage the lifecycle of users.","version":"v1"},"servers":[{"url":"https://api.aforza.com"}],"paths":{}}
