@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aforza is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by bonfire-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://aforza.com
+Aforza is a cloud‑based fintech platform that helps enterprises and startups integrate financial services, payments, analytics, and route‑to‑market solutions through a unified set of APIs. The company offers secure, scalable, developer‑friendly endpoints for transaction processing, account management, reporting, and a suite of AI‑driven tools such as Ava. Backed by Bonfire Ventures, Aforza provides extensive documentation, SDKs, and support to accelerate product development and improve profitability across retail, distribution, and B2B commerce.
+
+**Areas:** Company · Fintech · Payments · API · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aforza.com)
+- [Documentation](https://docs.aforza.com/)
+- [Getting started](https://developer.aforza.com/getting-started)
+- [API reference](https://developer.aforza.com/api)
+- [Sign up](https://aforza.com/create-account-objectives/)
+- [Support](https://aforza.com/support/)
+- [Blog](https://aforza.com/blog)
+- [Privacy policy](https://aforza.com/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aforza/](https://apis.io/providers/aforza/).
